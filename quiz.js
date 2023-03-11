@@ -1,3 +1,3 @@
 // intial commit
 
-const array = [1, 2, 3];
+const array = [3, 2, 1];
